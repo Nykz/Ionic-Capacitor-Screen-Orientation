@@ -1,0 +1,7 @@
+{
+  "name": "screen-orientation-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
